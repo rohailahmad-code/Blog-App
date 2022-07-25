@@ -11,6 +11,7 @@ function App() {
         <Link to="/">Home</Link>
         <Link to="/createpost">Create Post</Link>
         <Link to="/login">Login</Link>
+        
       </nav>
 
       <Routes>
